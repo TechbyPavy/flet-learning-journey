@@ -10,7 +10,12 @@ do canal [PyFlet](https://www.youtube.com/@pyflet).
 - Executar uma app simples com `ft.app(target=main)`
 
 ## Código
-- O código desta aula ficará neste diretório. 
+
+O ficheiro `main.py` contém o código da primeira aplicação criada com Flet: 
+- Importação do módulo Flet
+- Criação da função `main`
+- Adição de um texto simples à página
+- Execução da app com `ft.app(target=main)`
 
 ## Impressões pessoais 
 
