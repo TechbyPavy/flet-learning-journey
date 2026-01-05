@@ -13,6 +13,7 @@ As notas aqui escritas são interpretações e resumos pessoais, não cópias di
 
 ## Estrutura
 
+- Aula 01- Introdução ao Flet
 (irei registar cada aula, futuramente)
 
 ## Autor 
