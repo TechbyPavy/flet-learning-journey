@@ -10,7 +10,7 @@ def main(page: ft.Page):
     new_task = ft.TextField(hint_text='Insira uma tarefa...')
 
   # Botão flutuante para adicionar tarefas
-    new_button = ft.FloatingActionButton(icon=ft.Icons.ADD, on_click=add_task)
+    new_button = ft.FloatingActionButton(icon=ft.Icons.ADD, on_click=add_task) # Liga o clique à função add_task
 
   # Adiciona os componenetes à página
     page.add(new_task, new_button)
