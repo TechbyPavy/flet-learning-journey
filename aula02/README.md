@@ -13,6 +13,13 @@ Baseado no vídeo: https://www.youtube.com/watch?v=PxIpNxjT9xs&list=PLjEMBqp7RZO
 
 # O código 
 - Os códigos estão disponivel no main.py
+- *TexFlied:* onde o utilizador escreve algo
+- *Floating ActionButton:* botão redondo com ícone
+- *on click:* evento que chama a função quando o botão é pressionado
+- *new_tasl.value:* obtém o texto escrito no campo
+- *page-add():* coloca os componentes na interface.
 
 # Impressões pessoais
-..
+
+Se também estás a começar com Flet, vais notar como é motivador ver os componentes apatrecem autonamicamnete assimq ue guardas o ficheiro com ctrl +S- Essa resposta imdiata torna a aprendizagem mais leve e dá uma senasação real de progresso. O Flet é simples, visual e não exige configurações complicadas. Para quem está a iniciar no desenvolvimento de interfaces em Python, esta aula é um excelente ponto de partida.
+
