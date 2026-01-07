@@ -1,6 +1,6 @@
 # Aula 2 - Flet do Zero ao Avançado
 
-Baseado no vídeo: Aula 2 - Flet do Zero ao Avançado
+Baseado no vídeo: https://www.youtube.com/watch?v=PxIpNxjT9xs&list=PLjEMBqp7RZOyz7d6JYdkvWBKkU8pH1AUo&index=3
 
 # O que aprendi
 
@@ -14,3 +14,5 @@ Baseado no vídeo: Aula 2 - Flet do Zero ao Avançado
 # O código 
 - Os códigos estão disponivel no main.py
 
+# Impressões pessoais
+..
