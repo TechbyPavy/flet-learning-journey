@@ -1,4 +1,4 @@
-# Flet learing Journey
+# Flet learning Journey
 
 Este repositório acompanha o meu percurso de aprendizagem com framework Flet em Python.
 
