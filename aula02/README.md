@@ -2,7 +2,7 @@
 
 Baseado no vídeo: Aula 2 - Flet do Zero ao Avançado
 
-Objetivo da aula:
+# O que aprendi
 
 - Criar variáveis que armazenam componentes Flet
 - Exibir componenetes na página com page.add()
@@ -10,4 +10,7 @@ Objetivo da aula:
 - Criar um botão flutuante(Floating ActionButton)
 - Ligar ações ao botão usando "on click"
 - Capturar o valor digitado pelo utilizador
+
+# O código 
+- Os códigos estão disponivel no main.py
 
