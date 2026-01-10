@@ -2,18 +2,23 @@ import flet as ft
 
 def main(page: ft.Page):
 
-  # Função chamada ao clicar no botão
     def add_task(e):
         print(new_task.value)
+
+      # Adiciona um Checkbox na página com o texto digitado
+        page.add(ft.Checkbox(label=new_task.value))
       
-  # Campo de texto para inserir tarefas
+      # Limpa o campo de texto após adicionar a tarefa
+        new_task.value = ''
+      
+      # Atualiza a interface para mostrar as mudanças
+        page.update()
+
     new_task = ft.TextField(hint_text='Insira uma tarefa...')
+    new_button = ft.FloatingActionButton(icon=ft.Icons.ADD, on_click=add_task)
 
-  # Botão flutuante para adicionar tarefas
-    new_button = ft.FloatingActionButton(icon=ft.Icons.ADD, on_click=add_task) # Liga o clique à função add_task
-
-  # Adiciona os componenetes à página
+    
     page.add(new_task, new_button)
-
-# Inicializa alicação
+    
+    
 ft.app(target=main)
