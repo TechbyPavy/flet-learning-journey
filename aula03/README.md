@@ -1,6 +1,6 @@
 # Aula 3 - Flet do Zero ao Avançado
 
-Baseado no vídeo: https://www.youtube.com/watch?v=PxIpNxjT9xs&list=PLjEMBqp7RZOyz7d6JYdkvWBKkU8pH1AUo&index=3
+Baseado no vídeo: [Aula 03 – Flet do Zero ao Avançado](https://www.youtube.com/watch?v=Dwu9-81lXoA&list=PLjEMBqp7RZOyz7d6JYdkvWBKkU8pH1AUo&index=3)
 
 # O que aprendi
 
