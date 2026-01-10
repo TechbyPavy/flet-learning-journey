@@ -25,5 +25,6 @@ Se também estás a começar com Flet, vais notar como é motivador ver os compo
 
 # Assets
 
-![Screenshot da App](<img width="812" height="507" alt="image" src="https://github.com/user-attachments/assets/c5108fee-1ed0-46d0-b8e7-1b41b2a99521" />)
+![Screenshot da App](https://github.com/user-attachments/assets/fcb7ca03-166f-47f3-9d95-1af535ec31f1)
+
 
