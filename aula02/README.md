@@ -21,5 +21,5 @@ Baseado no vídeo: [Aula 02 - Flet do Zero ao Avançado](https://www.youtube.com
 
 # Impressões pessoais
 
-Se também estás a começar com Flet, vais notar como é motivador ver os componentes apatrecem autonamicamnete assimq ue guardas o ficheiro com ctrl +S- Essa resposta imdiata torna a aprendizagem mais leve e dá uma senasação real de progresso. O Flet é simples, visual e não exige configurações complicadas. Para quem está a iniciar no desenvolvimento de interfaces em Python, esta aula é um excelente ponto de partida.
+Se também estás a começar com Flet, vais notar como é motivador ver os componentes aparecem autonamicamnete assim que guardas o ficheiro com "ctrl +S", essa resposta imediata torna a aprendizagem mais leve e dá uma senasação real de progresso. O Flet é simples, visual e não exige configurações complicadas. Para quem está a iniciar no desenvolvimento de interfaces em Python, esta aula é um excelente ponto de partida.
 
